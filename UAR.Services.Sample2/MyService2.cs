@@ -52,7 +52,7 @@ namespace UAR.Services.Sample2
         {
             while (!_stop)
             {
-                Console.WriteLine("MyService2: calculate...");
+                System.Diagnostics.Debug.WriteLine("MyService2: calculate...");
                 Thread.Sleep(1000);
             }
         }

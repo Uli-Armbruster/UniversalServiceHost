@@ -21,6 +21,7 @@ namespace UAR.Services.Sample2
             yield return Component
                 .For<IAmService>()
                 .ImplementedBy<MyService2>()
+                .Named("MyService2")
                 .LifestyleSingleton();
         }
     }
