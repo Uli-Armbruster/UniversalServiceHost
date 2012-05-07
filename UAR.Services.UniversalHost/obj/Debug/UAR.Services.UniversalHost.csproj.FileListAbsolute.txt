@@ -1,0 +1,6 @@
+G:\Private\UniversalServiceHost\Binaries\UAR.Services.UniversalHost.exe.config
+G:\Private\UniversalServiceHost\Binaries\UAR.Services.UniversalHost.exe
+G:\Private\UniversalServiceHost\Binaries\UAR.Services.UniversalHost.pdb
+G:\Private\UniversalServiceHost\UAR.Services.UniversalHost\obj\Debug\ResolveAssemblyReference.cache
+G:\Private\UniversalServiceHost\UAR.Services.UniversalHost\obj\Debug\UAR.Services.UniversalHost.exe
+G:\Private\UniversalServiceHost\UAR.Services.UniversalHost\obj\Debug\UAR.Services.UniversalHost.pdb

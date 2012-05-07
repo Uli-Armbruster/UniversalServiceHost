@@ -1,0 +1,5 @@
+G:\Private\UniversalServiceHost\Binaries\UAR.Services.Sample2.dll
+G:\Private\UniversalServiceHost\Binaries\UAR.Services.Sample2.pdb
+G:\Private\UniversalServiceHost\UAR.Services.Sample2\obj\Debug\ResolveAssemblyReference.cache
+G:\Private\UniversalServiceHost\UAR.Services.Sample2\obj\Debug\UAR.Services.Sample2.dll
+G:\Private\UniversalServiceHost\UAR.Services.Sample2\obj\Debug\UAR.Services.Sample2.pdb
